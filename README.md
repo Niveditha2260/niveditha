@@ -1,2 +1,1 @@
-# niveditha
-ML project
+ML_Wine_quality
